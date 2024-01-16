@@ -1,0 +1,5 @@
+package com.nerfballer.orderservice.dto;
+
+public class OrderRequest {
+
+}
