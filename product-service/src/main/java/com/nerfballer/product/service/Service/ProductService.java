@@ -1,6 +1,7 @@
 package com.nerfballer.product.service.Service;
 
 import java.util.List;
+import java.util.Optional;
 
 import com.nerfballer.product.service.model.Product;
 import com.nerfballer.product.service.Repository.ProductRepository;
@@ -22,6 +23,7 @@ public class ProductService {
 //		this.productReposity = productRepository;
 //	}
 	
+	// void is used when you don't need to return
 	public void createProduct(ProductRequest productRequest) {
 		Product product = Product.builder()
 				.name(productRequest.getName())
@@ -48,4 +50,20 @@ public class ProductService {
 				.price(product.getPrice())
 				.build();
 	}
+	
+	public Optional<Product> getProductById(String productId) {
+		return productRepository.findById(productId);
+	}
+	
+	public Product updateProduct(String productId, Product updatedProduct) {
+		Product product = productRepository.findById(productId)
+				.orElseThrow(() -> new RuntimeException("Product not found with id " + productId));
+		
+		product.setName(updatedProduct.getName());
+		product.setDescription(updatedProduct.getDescription());
+		product.setPrice(updatedProduct.getPrice());
+		
+		return productRepository.save(product);
+	}
+	
 }
