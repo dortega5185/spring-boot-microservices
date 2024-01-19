@@ -9,6 +9,7 @@ import com.nerfballer.product.service.dto.ProductResponse;
 import com.nerfballer.product.service.model.Product;
 
 import org.springframework.http.HttpStatus;
+import org.springframework.http.ResponseEntity;
 import org.springframework.web.bind.annotation.*;
 
 import lombok.RequiredArgsConstructor;
@@ -33,6 +34,18 @@ public class ProductController {
 		return productService.getAllProducts();
 	}
 	
+	@GetMapping("/search")
+	public ResponseEntity<List<Product>> getProductByName(@RequestParam String name) {
+		List<Product> products = productService.getProductByName(name);
+		return ResponseEntity.ok(products);
+	}
+	
+	@GetMapping("/findProducts")
+	public ResponseEntity<List<Product>> findProductsByName(@RequestParam String partialName) {
+		List<Product> products = productService.findProductsByName(partialName);
+		return ResponseEntity.ok(products);
+	}
+	
 	@GetMapping("/{id}")
 	@ResponseStatus(HttpStatus.OK)
 	public Optional<Product> getProductById(@PathVariable String id) {
@@ -44,5 +57,13 @@ public class ProductController {
 	@ResponseStatus(HttpStatus.OK)
 	public Product updateProduct(@PathVariable String id, @RequestBody Product product) {
 		return productService.updateProduct(id, product);
+	}
+	
+	// Delete
+	@DeleteMapping("/{id}")
+	@ResponseStatus(HttpStatus.OK)
+	public List<ProductResponse> deleteProduct(@PathVariable String id) {
+		productService.deleteProduct(id);
+		return productService.getAllProducts();
 	}
 }
