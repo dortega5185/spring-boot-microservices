@@ -1,0 +1,52 @@
+package com.nerfballer.product.service.Service;
+
+import java.io.IOException;
+import java.math.BigDecimal;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.ArrayList;
+import java.util.List;
+import java.util.stream.Stream;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Service;
+
+import com.nerfballer.product.service.Repository.ProductRepository;
+import com.nerfballer.product.service.model.Product;
+
+import jakarta.annotation.PostConstruct;
+
+@Service
+public class FileProcessorService {
+
+    @Autowired
+    private ProductRepository productRepository;
+
+    // use postconstruct method in @Service class to read and parse a file when the app runs
+    @PostConstruct
+    public void init() {
+        String filePath = "/sample-data/data.txt";
+        List<Product> products = readAndParseFile(filePath);
+        productRepository.saveAll(products);
+        // saves to mongodb
+    }
+
+    private List<Product> readAndParseFile(String filePath) {
+        List<Product> products = new ArrayList<>();
+        try (Stream<String> stream = Files.lines(Paths.get(filePath))) {
+            stream.forEach(line -> {
+                String[] data = line.split("|");
+                Product product = new Product();
+                product.setId(data[0].trim());
+                product.setName(data[1].trim());
+                product.setDescription(data[2].trim());
+                product.setPrice(new BigDecimal(data[3].trim()));
+                products.add(product);
+            });
+    } catch (IOException e) {
+        e.printStackTrace();
+    }
+        return products;
+
+    }
+}
