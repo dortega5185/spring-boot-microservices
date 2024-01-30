@@ -1046,3 +1046,122 @@
 2024-01-19 03:57:22,347 [Worker-623: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-01-19 03:57:22,352 [Worker-623: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
 2024-01-19 03:57:22,355 [Worker-623: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\product-service\src\test\resources
+2024-01-20 18:38:52,262 [Worker-741: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-20 18:38:52,311 [Worker-741: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-20 18:38:52,318 [Worker-741: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\product-service\src\test\resources
+2024-01-24 01:37:24,011 [Worker-857: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 01:37:24,031 [Worker-857: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 01:37:24,035 [Worker-857: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\order-service\src\test\resources
+2024-01-24 21:21:50,720 [Worker-934: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:21:50,753 [Worker-934: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:21:50,756 [Worker-934: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\order-service\src\test\resources
+2024-01-24 21:30:27,424 [Worker-940: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:30:27,438 [Worker-940: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:30:27,442 [Worker-940: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\order-service\src\test\resources
+2024-01-24 21:36:18,610 [Worker-945: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2024-01-24 21:36:20,516 [Worker-945: Update Maven projects configuration] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.nerfballer:inventory-service:0.0.1-SNAPSHOT @ C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\pom.xml.
+2024-01-24 21:36:23,644 [Worker-947: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:36:23,668 [Worker-947: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:36:23,673 [Worker-947: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 21:36:23,708 [Worker-945: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inventory-service/src/main/java
+2024-01-24 21:36:23,709 [Worker-945: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventory-service/src/main/resources
+2024-01-24 21:36:23,718 [Worker-945: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventory-service/src/main/resources
+2024-01-24 21:36:23,731 [Worker-945: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /inventory-service/src/test/java
+2024-01-24 21:36:23,731 [Worker-945: Update Maven projects configuration] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding resource folder /inventory-service/src/test/resources
+2024-01-24 21:36:24,513 [Worker-941: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:36:24,515 [Worker-941: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:36:24,519 [Worker-941: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 21:36:24,693 [Worker-945: Update Maven projects configuration] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed for 1 poms: local refresh takes 0.00 sec, refresh facades takes 4.00 sec, update config takes 1.00 sec 
+2024-01-24 21:36:24,918 [Worker-946: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:36:24,920 [Worker-946: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:36:24,922 [Worker-946: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 21:44:06,850 [Worker-956: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:44:06,853 [Worker-956: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:44:06,855 [Worker-956: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 21:48:01,863 [Worker-958: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 21:48:01,868 [Worker-958: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 21:48:01,870 [Worker-958: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 22:37:33,553 [Worker-973: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 22:37:33,567 [Worker-973: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 22:37:33,569 [Worker-973: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 22:38:01,867 [Worker-966: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 22:38:01,882 [Worker-966: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 22:38:01,884 [Worker-966: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 22:44:39,436 [Worker-971: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 22:44:39,445 [Worker-971: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 22:44:39,448 [Worker-971: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 22:45:02,666 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 22:45:02,671 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 22:45:02,674 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 22:46:52,973 [Worker-976: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 22:46:52,978 [Worker-976: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 22:46:52,981 [Worker-976: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:00:24,001 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:00:24,006 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:00:24,008 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:03:19,080 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:03:19,084 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:03:19,087 [Worker-977: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:06:09,551 [Worker-983: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:06:09,564 [Worker-983: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:06:09,567 [Worker-983: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\order-service\src\test\resources
+2024-01-24 23:20:48,916 [Worker-984: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:20:48,920 [Worker-984: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:20:48,923 [Worker-984: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:24:16,002 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:24:16,007 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:24:16,010 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:24:19,285 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:24:19,290 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:24:19,293 [Worker-986: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:40:25,439 [Worker-991: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:40:25,443 [Worker-991: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:40:25,445 [Worker-991: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:41:44,340 [Worker-999: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:41:44,345 [Worker-999: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:41:44,347 [Worker-999: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:46:48,249 [Worker-1007: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:46:48,255 [Worker-1007: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:46:48,258 [Worker-1007: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:58:46,629 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:58:46,633 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:58:46,635 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-24 23:59:29,090 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-24 23:59:29,096 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-24 23:59:29,098 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 00:00:48,524 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 00:00:48,528 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 00:00:48,530 [Worker-1013: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:09:22,069 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:09:22,114 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:09:22,116 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:10:15,858 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:10:15,893 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:10:15,895 [Worker-1154: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:10:46,674 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:10:46,681 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:10:46,683 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:14:15,522 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:14:15,526 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:14:15,529 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:16:32,547 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:16:32,552 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:16:32,554 [Worker-1158: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:18:19,218 [Worker-1159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:18:19,223 [Worker-1159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:18:19,224 [Worker-1159: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:18:30,777 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:18:30,781 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:18:30,783 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:20:34,112 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:20:34,116 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:20:34,118 [Worker-1149: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-25 23:37:53,351 [Worker-1168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-25 23:37:53,357 [Worker-1168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-25 23:37:53,360 [Worker-1168: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-29 22:16:04,006 [Worker-1724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-29 22:16:04,097 [Worker-1724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-29 22:16:04,099 [Worker-1724: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
+2024-01-29 22:16:56,622 [Worker-1728: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource from src\main\resources to target\classes
+2024-01-29 22:16:56,628 [Worker-1728: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource from src\main\resources to target\classes
+2024-01-29 22:16:56,630 [Worker-1728: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\inventory-service\src\test\resources
