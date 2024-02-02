@@ -1,5 +1,0 @@
-package com.nerfballer.orderservice.dto;
-
-public class OrderLineItemsDto {
-
-}
