@@ -1,0 +1,5 @@
+1 | iphone | the original smartphone that started it all | 800
+2 | iphone 2 | the second iphone | 850
+3 | razor | razor flip phone | 400
+4 | pixel | the original pixel smart phone from google | 350
+5 | pixel 2 | slightly improved pixel | 400
