@@ -1,0 +1,11 @@
+com\nerfballer\product\service\dto\ProductRequest.class
+com\nerfballer\product\service\Application.class
+com\nerfballer\product\service\model\Product$ProductBuilder.class
+com\nerfballer\product\service\dto\ProductRequest$ProductRequestBuilder.class
+com\nerfballer\product\service\Controller\ProductController.class
+com\nerfballer\product\service\Service\ProductService.class
+com\nerfballer\product\service\model\Product.class
+com\nerfballer\product\service\dto\ProductResponse.class
+com\nerfballer\product\service\Service\FileProcessorService.class
+com\nerfballer\product\service\Repository\ProductRepository.class
+com\nerfballer\product\service\dto\ProductResponse$ProductResponseBuilder.class
