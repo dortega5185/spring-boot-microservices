@@ -2,11 +2,12 @@ package com.nerfballer.inventoryservice.controller;
 
 import org.springframework.web.bind.annotation.*;
 
+import com.nerfballer.inventoryservice.dto.InventoryResponse;
 import com.nerfballer.inventoryservice.service.InventoryService;
 
 import lombok.RequiredArgsConstructor;
 
-//import java.util.List;
+import java.util.List;
 import org.springframework.http.HttpStatus;
 
 @RestController
@@ -22,9 +23,9 @@ public class InventoryController {
 //		return inventoryService.getAllInStock()
 //	}
 	
-	@GetMapping("/{sku-code}")
+	@GetMapping
 	@ResponseStatus(HttpStatus.OK)
-	public boolean isInStock(@PathVariable("sku-code") String skuCode) {
+	public List<InventoryResponse> isInStock(@RequestParam List<String> skuCode) {
 		return inventoryService.isInStock(skuCode);
 	}
 }
