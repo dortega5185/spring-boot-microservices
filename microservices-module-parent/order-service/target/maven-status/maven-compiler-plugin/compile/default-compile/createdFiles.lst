@@ -1,8 +1,11 @@
 com\nerfballer\orderservice\service\OrderService.class
 com\nerfballer\orderservice\model\Order.class
+com\nerfballer\orderservice\dto\InventoryResponse$InventoryResponseBuilder.class
 com\nerfballer\orderservice\model\OrderLineItems.class
 com\nerfballer\orderservice\repository\OrderRepository.class
 com\nerfballer\orderservice\dto\OrderRequest.class
 com\nerfballer\orderservice\OrderServiceApplication.class
+com\nerfballer\orderservice\config\WebClientConfig.class
 com\nerfballer\orderservice\controller\OrderController.class
 com\nerfballer\orderservice\dto\OrderLineItemsDto.class
+com\nerfballer\orderservice\dto\InventoryResponse.class
