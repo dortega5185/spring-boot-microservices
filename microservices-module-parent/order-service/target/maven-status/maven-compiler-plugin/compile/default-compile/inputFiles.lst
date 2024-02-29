@@ -1,5 +1,7 @@
 C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\dto\OrderLineItemsDto.java
+C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\dto\InventoryResponse.java
 C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\service\OrderService.java
+C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\config\WebClientConfig.java
 C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\repository\OrderRepository.java
 C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\model\OrderLineItems.java
 C:\Users\omgit_a3xvv1\OneDrive\Desktop\JavaSideProjects\microservices-parent\microservices-module-parent\order-service\src\main\java\com\nerfballer\orderservice\model\Order.java

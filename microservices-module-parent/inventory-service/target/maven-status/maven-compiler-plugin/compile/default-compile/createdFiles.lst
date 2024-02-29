@@ -1,5 +1,7 @@
 com\nerfballer\inventoryservice\InventoryServiceApplication.class
+com\nerfballer\inventoryservice\model\Inventory.class
 com\nerfballer\inventoryservice\repository\InventoryRepository.class
 com\nerfballer\inventoryservice\service\InventoryService.class
+com\nerfballer\inventoryservice\dto\InventoryResponse$InventoryResponseBuilder.class
+com\nerfballer\inventoryservice\dto\InventoryResponse.class
 com\nerfballer\inventoryservice\controller\InventoryController.class
-com\nerfballer\inventoryservice\model\Inventory.class
